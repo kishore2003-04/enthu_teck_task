@@ -1,0 +1,21 @@
+Message,Label
+"What are your company hours",inquiry
+"I love your products and services",feedback
+"Can I get a refund",request
+"My order hasn't arrived yet.",complaint
+"Do you have any discounts",inquiry
+"Great service, thank you",feedback
+"I need to change my order",request
+"The product was damaged",complaint
+"What is your return policy?",inquiry
+"I am happy with my purchase.",feedback
+"Can you help me with my account",request
+"I received the wrong item.",complaint
+"How do I track my order",inquiry
+"Your website is very user-friendly",feedback
+"I want to cancel my subscription.",request
+"The website keeps crashing.",complaint
+"What all payment methods do you accept?",inquiry
+"I am overwhelmed with your delivery services",feedback
+"Can I modify my shipping address",request
+"The delivery partner charged me an additional amount.",complaint
